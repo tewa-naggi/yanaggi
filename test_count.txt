@@ -1,0 +1,205 @@
+*****************COUNT*****************
+process:/home/sharing/project_total/akonya_CUDALC/maca/info.xml
+process:/home/sharing/project_total/cfobel_cuda__thrust_example/maca/info.xml
+process:/home/sharing/project_total/devincody_DSAbeamformer/maca/info.xml
+process:/home/sharing/project_total/jerinphilip_parallel-svd/maca/info.xml
+process:/home/sharing/project_total/te42kyfo_cuda-benches/maca/info.xml
+process:/home/sharing/project_total/BjoernHaefner_mweCmakeMexCppCuda/maca/info.xml
+process:/home/sharing/project_total/dgrat_cudaFPdemo/maca/info.xml
+process:/home/sharing/project_total/mohdshamilshafi_cudaexperiments/maca/info.xml
+process:/home/sharing/project_total/pkestene_cuda-proj-tmpl/maca/info.xml
+process:/home/sharing/project_total/ipilter_RayTracerTest/maca/info.xml
+process:/home/sharing/project_total/hwchen2017_Optimize_SGEMM_on_Nvidia_GPU/maca/info.xml
+process:/home/sharing/project_total/kt0d_gpu-des/maca/info.xml
+process:/home/sharing/project_total/muriloboratto_benchmark-mode-optimization-GPU/maca/info.xml
+process:/home/sharing/project_total/jim-rafferty_cuda-matrix-multiply-mex/maca/info.xml
+process:/home/sharing/project_total/li-weihua_cudnn_lstm/maca/info.xml
+process:/home/sharing/project_total/manurare_cuda4dl/maca/info.xml
+process:/home/sharing/project_total/tbrand_MobileCUDA/maca/info.xml
+process:/home/sharing/project_total/fweig_xpu/maca/info.xml
+process:/home/sharing/project_total/bzip2-cuda_bzip2-cuda/maca/info.xml
+process:/home/sharing/project_total/rimchang_cuda_study/maca/info.xml
+process:/home/sharing/project_total/asnordstrand_conv2d/maca/info.xml
+process:/home/sharing/project_total/renexdev_cuda-computer-vision/maca/info.xml
+process:/home/sharing/project_total/siboehm_SGEMM_CUDA/maca/info.xml
+process:/home/sharing/project_total/lucassa3_PEGASOS-SVM-CLASSIFIER/maca/info.xml
+process:/home/sharing/project_total/garrettwrong_cuTWED/maca/info.xml
+process:/home/sharing/project_total/shubham-pyc_Image-Segmentation/maca/info.xml
+process:/home/sharing/project_total/rainiwu_cuOFDM/maca/info.xml
+process:/home/sharing/project_total/cha0xfox_MAI_CUDA_Sem1/maca/info.xml
+process:/home/sharing/project_total/Rane2021_matmul_optim/maca/info.xml
+process:/home/sharing/project_total/CalvinXKY_BasicCUDA/maca/info.xml
+process:/home/sharing/project_total/Accumulated_Accelerating-CNN-on-GPU-using-CUDA-C/maca/info.xml
+process:/home/sharing/project_total/johnheo_cuda-accel-vit/maca/info.xml
+process:/home/sharing/project_total/jantogni_cuda-training/maca/info.xml
+process:/home/sharing/project_total/bz6102365_CFD_assignment_with_CUDA/maca/info.xml
+process:/home/sharing/project_total/hwchen2017_ising-model-gpu/maca/info.xml
+process:/home/sharing/project_total/jwjiang38_cuda-particle-simulation/maca/info.xml
+process:/home/sharing/project_total/LB-Yu_tinyflow/maca/info.xml
+process:/home/sharing/project_total/digital-nomad-cheng_study/maca/info.xml
+process:/home/sharing/project_total/JDkuba_CUDAmultiagent/maca/info.xml
+process:/home/sharing/project_total/OmerFarukTutkun_CUDA-Trainer/maca/info.xml
+process:/home/sharing/project_total/jpalonso1_gpu_backtester/maca/info.xml
+process:/home/sharing/project_total/rahulwankhede_ct_perfusion/maca/info.xml
+process:/home/sharing/project_total/kirill-menke_neural-network-optimization/maca/info.xml
+process:/home/sharing/project_total/richardesp_cudaKNN/maca/info.xml
+process:/home/sharing/project_total/m-bronnikov_PGP/maca/info.xml
+process:/home/sharing/project_total/ehsanyousefzadehasl_PCwGPGPUs/maca/info.xml
+process:/home/sharing/project_total/foreverrookie_cuda-opt-samples/maca/info.xml
+process:/home/sharing/project_total/studentenherz_FOCUS/maca/info.xml
+process:/home/sharing/project_total/BioinfoSZU_CURC/maca/info.xml
+process:/home/sharing/project_total/Ad115_Liquid-Crystals/maca/info.xml
+process:/home/sharing/project_total/rogerdahl_cuda-cipher/maca/info.xml
+process:/home/sharing/project_total/yester31_Matrix_Multiplication/maca/info.xml
+process:/home/sharing/project_total/libcy_psmfdm/maca/info.xml
+process:/home/sharing/project_total/AKIRAsamadesu_CUDA-programming/maca/info.xml
+process:/home/sharing/project_total/zobinHuang_CUDAmop/maca/info.xml
+process:/home/sharing/project_total/tim010007_2020-cgsolver-PHPC-project/maca/info.xml
+process:/home/sharing/project_total/Mudit7_CUDA-ResNet/maca/info.xml
+process:/home/sharing/project_total/princeofpython_PageRank-with-CUDA/maca/info.xml
+process:/home/sharing/project_total/mitsuba-renderer_drjit-core/maca/info.xml
+process:/home/sharing/project_total/Chenw831X_CG_CUDA/maca/info.xml
+process:/home/sharing/project_total/tpn_cuda-samples/maca/info.xml
+process:/home/sharing/project_total/sophiawisdom_biology/maca/info.xml
+process:/home/sharing/project_total/pkestene_MS-HPC-AI-GPU/maca/info.xml
+process:/home/sharing/project_total/LaGrange151235_CUDA_RayTracer/maca/info.xml
+process:/home/sharing/project_total/Matkicail_HPC-Project/maca/info.xml
+process:/home/sharing/project_total/matEhickey_Projet-CUDA-M2/maca/info.xml
+process:/home/sharing/project_total/PointKernel_toto-cuda/maca/info.xml
+process:/home/sharing/project_total/yanminglai_MCMC-on-GPU/maca/info.xml
+process:/home/sharing/project_total/ie-CUDATeam_2013ie-CUDA/maca/info.xml
+process:/home/sharing/project_total/SailikhithGunda_Eigen-values-using-CUDA/maca/info.xml
+process:/home/sharing/project_total/hpjeonGIT_workshop_unit_test/maca/info.xml
+process:/home/sharing/project_total/morkonrad_fusion/maca/info.xml
+process:/home/sharing/project_total/yester31_CUDA_EX/maca/info.xml
+process:/home/sharing/project_total/NiclasEsser1_CUDARangeDopplerProcessing/maca/info.xml
+process:/home/sharing/project_total/Hzfengsy_CSE599-assignment2-GPUautodiff/maca/info.xml
+process:/home/sharing/project_total/jrhemstad_example_cuda_benchmark/maca/info.xml
+process:/home/sharing/project_total/SuperVan-Young_cuda-kernel-sandbox/maca/info.xml
+process:/home/sharing/project_total/dimkastan_CudaViaCmake/maca/info.xml
+process:/home/sharing/project_total/unibas-dmi-hpc_SPH-EXA/maca/info.xml
+process:/home/sharing/project_total/077Jungle_CS149-asst3/maca/info.xml
+process:/home/sharing/project_total/hasindu2008_WebInterfaceGPGPU/maca/info.xml
+process:/home/sharing/project_total/PKUGoodSpeed_CudaProgramming/maca/info.xml
+process:/home/sharing/project_total/CameronS-D_CompressibleSolverCUDA/maca/info.xml
+process:/home/sharing/project_total/SomeOrdinaryGamer_CUDA-DeviceQuery-and-VectorAdd/maca/info.xml
+process:/home/sharing/project_total/Theo-Wu_Ray_tracer_CUDA/maca/info.xml
+process:/home/sharing/project_total/mkblog-cokr_CudaRTSeries/maca/info.xml
+process:/home/sharing/project_total/Sourish07_CUDA-Accelerated-Neural-Network/maca/info.xml
+process:/home/sharing/project_total/nicolaswilde_cuda-sgemm/maca/info.xml
+process:/home/sharing/project_total/PacktPublishing_Hands-On-GPU-Programming-with-CUDA-C-and-Python-3.x-Second-Edition/maca/info.xml
+process:/home/sharing/project_total/fritsche_CUDA-final-project/maca/info.xml
+process:/home/sharing/project_total/knut0815_enoki-jit/maca/info.xml
+process:/home/sharing/project_total/a-windisch_Introduction_to_CUDA_WT2016/maca/info.xml
+process:/home/sharing/project_total/HadXu_Thunder/maca/info.xml
+process:/home/sharing/project_total/LLNL_Aluminum/maca/info.xml
+process:/home/sharing/project_total/spacejake_telef-solver/maca/info.xml
+process:/home/sharing/project_total/nucbaixu_CUDALearn/maca/info.xml
+process:/home/sharing/project_total/IlyaGrebnov_libcubwt/maca/info.xml
+process:/home/sharing/project_total/jiangyangzhou_2048/maca/info.xml
+process:/home/sharing/project_total/cb1711_Sparse-matrix-multiplication/maca/info.xml
+process:/home/sharing/project_total/Leonardo-Ding_gpu_sgemm/maca/info.xml
+process:/home/sharing/project_total/yohanesgultom_parallel-programming-assignment/maca/info.xml
+process:/home/sharing/project_total/TomCollingwood_ParticlePanic2/maca/info.xml
+process:/home/sharing/project_total/SomeOrdinaryGamer_CUDA-ListScan-and-Histogram/maca/info.xml
+process:/home/sharing/project_total/wolfviking0_webcl-cuda-nvidia/maca/info.xml
+process:/home/sharing/project_total/bys17778885154_Cuda_Samples/maca/info.xml
+process:/home/sharing/project_total/sukunis_CUNFFT/maca/info.xml
+process:/home/sharing/project_total/nvzoll_walksat-cuda/maca/info.xml
+process:/home/sharing/project_total/yeroc-sebrof_Aletheia/maca/info.xml
+process:/home/sharing/project_total/aiday-mar_mpi-cuda-project/maca/info.xml
+process:/home/sharing/project_total/Harinhere_CUDA-Classical-Trajectory-Monte-Carlo-method-for-electron-hydrogen-collisions/maca/info.xml
+process:/home/sharing/project_total/Michael-Beukman_HPC-InterestGroup/maca/info.xml
+process:/home/sharing/project_total/abs711_High-Performance-Scientific-Computing/maca/info.xml
+process:/home/sharing/project_total/tr0j4n034_HPC-2019/maca/info.xml
+process:/home/sharing/project_total/zixgo_cuda-nlmeans/maca/info.xml
+process:/home/sharing/project_total/theProgrammingBox_cublas-test/maca/info.xml
+process:/home/sharing/project_total/AnikChaudhuri_Variational-Bayes-with-CUDA-Stream/maca/info.xml
+process:/home/sharing/project_total/Carlos310197_Fast-Point-Cloud-Registration-with-GPUs/maca/info.xml
+process:/home/sharing/project_total/MuLx10_firefly/maca/info.xml
+process:/home/sharing/project_total/eAzure_my-cuda-samples/maca/info.xml
+process:/home/sharing/project_total/HangJie720_cudnn-samples/maca/info.xml
+process:/home/sharing/project_total/dquangit_GeneticAlgorithm-Knapsack-ParallelCudaCpp/maca/info.xml
+process:/home/sharing/project_total/henrikhestnes_ECE277-GPU-Programming/maca/info.xml
+process:/home/sharing/project_total/ggzor_cuda-busy-beaver/maca/info.xml
+process:/home/sharing/project_total/smohammadhejazi_multicore-programming-lab/maca/info.xml
+process:/home/sharing/project_total/mapengfei-nwpu_ProfessionalCUDACProgramming/maca/info.xml
+process:/home/sharing/project_total/AhmedGhazale_NeuralNetworksInCUDA/maca/info.xml
+process:/home/sharing/project_total/TakaiKinoko_Quantifying-the-Relationship-Between-Occupancy-and-Performance-On-CUDA/maca/info.xml
+process:/home/sharing/project_total/Mark1626_road-to-plus-plus/maca/info.xml
+process:/home/sharing/project_total/sts08015_CUDA-exercises/maca/info.xml
+process:/home/sharing/project_total/Shutoparu_CudaSimulatedQuantumAnnealing/maca/info.xml
+process:/home/sharing/project_total/luketjohnston_cuda-conv2d/maca/info.xml
+process:/home/sharing/project_total/jaredhoberock_stanford-cs193g-sp2010/maca/info.xml
+process:/home/sharing/project_total/wang-zhq_TC_CUDA/maca/info.xml
+process:/home/sharing/project_total/zhoupeng1998_SpMM/maca/info.xml
+process:/home/sharing/project_total/ijpq_15418/maca/info.xml
+process:/home/sharing/project_total/lawmurray_gpu-course/maca/info.xml
+process:/home/sharing/project_total/gunrock_loops/maca/info.xml
+process:/home/sharing/project_total/TingmanYan_CRTrees/maca/info.xml
+process:/home/sharing/project_total/ftcister_black_hole_cuda/maca/info.xml
+process:/home/sharing/project_total/raytroop_CUDAProgramming2019July/maca/info.xml
+process:/home/sharing/project_total/dimart_cuda_ss18/maca/info.xml
+process:/home/sharing/project_total/bulat-f_CUDA-course/maca/info.xml
+process:/home/sharing/project_total/rodrigovimieiro_OpenCodes/maca/info.xml
+process:/home/sharing/project_total/guybaryosef_advancedCompArch/maca/info.xml
+process:/home/sharing/project_total/NereaAlamarPorter_CUDA-HDR-Tone-mapping/maca/info.xml
+process:/home/sharing/project_total/ananta399_GPUsolver/maca/info.xml
+process:/home/sharing/project_total/Bruce-Lee-LY_cuda_hook/maca/info.xml
+process:/home/sharing/project_total/melanietosik_hpc/maca/info.xml
+process:/home/sharing/project_total/zphang_extratrees_cuda/maca/info.xml
+total test num: 339
+passed test num: 295
+failed test num: 44
+passed_cuda_lib ['curand cuda_runtime', 'thrust', 'cublas', 'cuBLAS,cuBLASLt', 'cupti', 'cublas,eigen', 'cudnn_cublas', None, None, 'cublas', 'cudart', 'cublas', 'cublas', None, None, 'cublas', 'cublas', 'curand', '_', 'thrust', '_', '_', '_', '_', '_', '_', '_', 'cublas', 'cublas', 'cublas', None, '_', 'thrust', 'cufft', 'cudart', None, None, 'cublas', 'cublas', 'cublas', 'cublas', 'cublas', 'cublas', 'cublas', 'cublas', 'cublas', 'cublas', '_', '_', '_', '_', 'thrust', '_', 'libmcanalyzer、libmcpti', 'cudart', 'cudart', 'cudart', 'cudart', 'curand', 'cublas', '_', '_', 'cuda_vector', 'cudart', 'cudart', None, None, None, None, None, 'thrust', None, 'cublas', 'cublas', '_', 'curand', None, 'thrust', 'cublas', 'cufft', 'cublas', 'cublas', 'cublas', 'cufft', 'cublas', 'cublas', 'cublas', 'cublas', 'cublas', 'cublas', 'cublas', 'cublas', 'cublas', 'cublas', 'curand', 'thrust cuda', 'cusparse cuda_runtime cublas', '_', '_', '_', 'curand', None, None, 'curand', None, None, 'cudart', '_', 'thrust', '_', 'curand', 'curand', 'curand', 'curand', 'curand', 'curand', 'curand', 'curand', 'curand', 'curand', 'curand', 'curand', 'cudart', 'thrust', None, None, 'thrust', 'cusparse', 'cusparse', 'cusparse', 'cudart,curand,cufft', 'cublas', None, None, 'curand', 'curand', None, None, 'cublas', None, 'cubart', '_', '_', '_', '_', '_', '_', '_', '_', '_', 'thrust', 'thrust', 'cuda_runtime', 'cuda_runtime', 'cudart', 'cudart', 'cublas_v2', 'thrust', 'curand', 'cuda.h', None, None, None, 'cublas', 'thrust', 'thrust', None, 'cublas', None, 'cublas', 'cublas', '_', 'curand,thrust', 'cublas', None, None, 'curand,cudart,thrust', 'cuda_runtime', 'cuda_runtime', 'cublas', 'cublas', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, 'cufft', 'cublas', 'thrust', 'thrust', 'cublas', '_', 'thrust', None, ',curand', 'curand', 'yolo,blas,box,coco', 'curand', 'curand', 'curand', 'curand', 'curand', 'cudnn', 'cudnn', 'cudnn', 'cudnn', 'cuda cudart curand', None, 'cublas_v2', 'cudart', 'cublas', 'cublas', 'cublas', 'cufft', None, 'curand', '_', 'thrust', 'cublas', 'cublas', 'cublas', 'cublas', 'cublas', 'cublas', 'cublas', 'cublas', 'cublas', 'cublas', 'cublas', 'cublas', 'curand', '_', '_', '_', '_', 'cublas', 'cuda_runtime', 'thrust cuda_runtime', 'cuda_runtime', 'cublas', 'thrust,curand', 'cudnn_cublas', 'curand', 'cublas', 'cufft', None, None, '_', '_', '_', '_', '_', '_', '_', '_', '_', '_', '_', '_', 'cuda_runtime', 'cuda_runtime', 'lpng,jpeg', 'cublas,thrust', 'thrust', '_', '_', '_', None, 'curand']
+failed_cuda_lib ['cublas', 'cublas,gomp', 'cublas', 'cudnn', 'cudart,cublas,cudnn', 'cuda_runtime cusolver', 'cublas', '_', 'cublas', 'cublas', 'cublas', 'cublas', 'cudart', 'thrust', 'lcudart lcublas lcusolver', 'cublas', 'curand', 'cublas', 'curand', 'cudnn', 'cudnn', 'thrust', 'thrust', 'thrust', 'thrust', 'thrust', '_', 'curand', 'cublas', 'cublas,cudart,cudadevrt', 'cudart,cublas,cudadevrt', 'cublas curand', 'curand', 'curand', 'curand', 'cublas', '_', 'thrust', 'cublas', 'cudart cublas curand cusolver', 'curand', 'cudnn_cublas', None, 'cublas']
+pass lib count:
+{None: 69,
+ ',curand': 1,
+ '_': 53,
+ 'cuBLAS,cuBLASLt': 1,
+ 'cubart': 1,
+ 'cublas': 65,
+ 'cublas,eigen': 1,
+ 'cublas,thrust': 1,
+ 'cublas_v2': 2,
+ 'cuda cudart curand': 1,
+ 'cuda.h': 1,
+ 'cuda_runtime': 8,
+ 'cuda_vector': 1,
+ 'cudart': 13,
+ 'cudart,curand,cufft': 1,
+ 'cudnn': 4,
+ 'cudnn_cublas': 2,
+ 'cufft': 6,
+ 'cupti': 1,
+ 'curand': 31,
+ 'curand cuda_runtime': 1,
+ 'curand,cudart,thrust': 1,
+ 'curand,thrust': 1,
+ 'cusparse': 3,
+ 'cusparse cuda_runtime cublas': 1,
+ 'libmcanalyzer、libmcpti': 1,
+ 'lpng,jpeg': 1,
+ 'thrust': 19,
+ 'thrust cuda': 1,
+ 'thrust cuda_runtime': 1,
+ 'thrust,curand': 1,
+ 'yolo,blas,box,coco': 1}
+fail lib count:
+{None: 1,
+ '_': 3,
+ 'cublas': 13,
+ 'cublas curand': 1,
+ 'cublas,cudart,cudadevrt': 1,
+ 'cublas,gomp': 1,
+ 'cuda_runtime cusolver': 1,
+ 'cudart': 1,
+ 'cudart cublas curand cusolver': 1,
+ 'cudart,cublas,cudadevrt': 1,
+ 'cudart,cublas,cudnn': 1,
+ 'cudnn': 3,
+ 'cudnn_cublas': 1,
+ 'curand': 7,
+ 'lcudart lcublas lcusolver': 1,
+ 'thrust': 7}
